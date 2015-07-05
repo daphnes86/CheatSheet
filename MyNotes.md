@@ -11,7 +11,7 @@ echo "put text here" > FileName
 
 ### Basic CLI commands
 
-pwd :shows the path to the current working space
+* pwd :shows the path to the current working space
 clear :clears the screen
 ls :lists the files and folders
 ls -a :lists hidden files
