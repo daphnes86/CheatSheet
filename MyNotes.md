@@ -2,10 +2,10 @@
 2. git clone URL :to create a local repo
 3. navigate to the new local repo
 4. touch - creates a new file in this repo
-5. git add FileName (add . - will add everything in the folder)
 To write into the file - go to that directory with cd:
 echo "put text here" > FileName
 (or - open that file with a text editor, put in text and save)
+5. git add FileName (add . - will add everything in the folder)
 6. git commit -am 'MessageHere'
 7. git push
 
