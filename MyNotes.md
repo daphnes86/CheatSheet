@@ -12,8 +12,8 @@ echo "put text here" > FileName
 ### Basic CLI commands
 
 * pwd :shows the path to the current working space
-clear :clears the screen
-ls :lists the files and folders
+* clear :clears the screen
+* ls :lists the files and folders
 ls -a :lists hidden files
 la -al :lists details about the hidden files
 cd Job Hunt Related/Daphne :change directory - move to another dir
